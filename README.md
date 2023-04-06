@@ -17,8 +17,7 @@ NewsBit is a project aiming to build a model to establish a correlation between 
 11. Research Paper Submission: Compile research and findings in a professional report.
 
 ## Installation
-Clone this repository to your local machine:
-git clone https://github.com/NewsBit/Correlating-News-Coverage-Sentiment-and-Bitcoin-Prices.git
+Clone this repository to your local machine
 
 ## Usage
 Follow the instructions in each Jupyter notebook or R script to run the respective phase of the project.
